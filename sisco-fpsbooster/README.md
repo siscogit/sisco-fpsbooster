@@ -9,3 +9,6 @@ Lo script ha 3 diversi tipi di settaggi:
 + Medio - per avere texture medie
 
 + Apri il menu tramite il comando /fps
+
+!! ATTENZIONE !!
+QUESTA RISORSA È UTILIZZABILE SOLO SE HAI UN SERVER CHE UTILIZZA IL FRAMEWORK QBCore
